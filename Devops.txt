@@ -10,7 +10,8 @@ Docker
 Ansible
 
 
-For automation neeed scripting language
+
+For automation neeed scripting 
 Shell Script
 or
 Python Script
