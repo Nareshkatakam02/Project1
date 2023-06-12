@@ -1,0 +1,22 @@
+Devops(YT Chaneel--->Technical Adda, Telugu DevOps Guru
+--------------
+Git
+Maven
+---->gradel
+Jenkins
+---->Gocd
+Docker
+---->K8(Quber nets)
+Ansible
+
+
+For automation neeed scripting language
+Shell Script
+or
+Python Script
+
+
+Cloud: Any 1
+AWS
+GCP
+Azure
